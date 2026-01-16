@@ -94,3 +94,5 @@ This project is open-source and free to use for personal and commercial projects
 Kunal Mehta
 Frontend Developer
 preview link:https://excellencedunia-footer-rho.vercel.app/
+<img width="1350" height="608" alt="image" src="https://github.com/user-attachments/assets/30936b7b-57cd-4d5f-9596-16c843ad7f4a" />
+
